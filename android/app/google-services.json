@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "288311551307",
+    "project_id": "tus-quiz",
+    "storage_bucket": "tus-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288311551307:android:4701b37ea78efcfc8634ce",
+        "android_client_info": {
+          "package_name": "com.digitalpratix.equaleducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288311551307-kpit1mk2atcualoi69lhoqgm6jgdps8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalpratix.equaleducation",
+            "certificate_hash": "cc28dcf48a19d58a407e0c8859fe2bfbfd1952d5"
+          }
+        },
+        {
+          "client_id": "288311551307-0skh93k2uaus77e031crjjci13pihcpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxmWWrYPeQc1sx_C3gNHCae-D9DdTuW3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288311551307-0skh93k2uaus77e031crjjci13pihcpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288311551307-31fm3l16ivp13rs55nbkuno690477k0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalpratix.tusquiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288311551307:android:f18c1be634284d418634ce",
+        "android_client_info": {
+          "package_name": "com.digitalpratix.tusquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288311551307-pir53bbtlheiu35bs1u08ni63hdl5n7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalpratix.tusquiz",
+            "certificate_hash": "5b5c3af15f95a78c9ae414f031cdb7c86b6a232f"
+          }
+        },
+        {
+          "client_id": "288311551307-0skh93k2uaus77e031crjjci13pihcpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxmWWrYPeQc1sx_C3gNHCae-D9DdTuW3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288311551307-0skh93k2uaus77e031crjjci13pihcpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288311551307-31fm3l16ivp13rs55nbkuno690477k0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalpratix.tusquiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>288311551307-31fm3l16ivp13rs55nbkuno690477k0o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.288311551307-31fm3l16ivp13rs55nbkuno690477k0o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>288311551307-pir53bbtlheiu35bs1u08ni63hdl5n7f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ-rl15ETiySOC0nUumNvbbfNFOvf1IDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288311551307</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitalpratix.tusquiz</string>
+	<key>PROJECT_ID</key>
+	<string>tus-quiz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tus-quiz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288311551307:ios:0c514f6636cd9f5a8634ce</string>
+</dict>
+</plist>
